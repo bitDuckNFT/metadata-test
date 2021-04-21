@@ -10,5 +10,6 @@
             "value": "Starfish"
         }
     ],
-    "background_color": "ff0000"
+    "background_color": "ff0000",
+    "animation_url": "https://raw.githubusercontent.com/bitDuckNFT/metadata-test/master/assets/Duck.gltf"
 }
