@@ -9,5 +9,6 @@
             "trait_type": "Base",
             "value": "Starfish"
         }
-    ]
+    ],
+    "background_color": "ff0000"
 }
