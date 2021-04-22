@@ -1,0 +1,9 @@
+{
+    "title": "BitDuckNFT - Duck",
+    "decription": "Duck is ERC20 Token for internal transactions. you get it when mint a new NFT and is locked in.",
+    "image": "https://raw.githubusercontent.com/bitDuckNFT/metadata-test/master/imgs/duck.png",
+    "model": "https://github.com/bitduckNFT/{id}.gltf",
+    "name": "NFT2",
+    "background_color": "f8f8ff",
+    "animation_url": "https://raw.githubusercontent.com/bitDuckNFT/metadata-test/master/assets/scene.gltf"
+}
